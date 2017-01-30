@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Book Recommendation App</string>
+    <string name="error_instructions">
+        No Results Available. Please enter an alternate URL address in the Main Activity Class where
+        indicated.
+    </string>
+    <!-- menu -->
+    <string name="sort_by_rating">Sort by rating</string>
+    <string name="pref_min_rating_label">Minimum rating:</string>
+    <string name="pref_min_rating_key">Minimum rating</string>
+    <string name="instructions">
+        Enter a search keyword to see book listings containing that keyword.
+    </string>
+
+    <string name="suggest_button">Click here for a Book Suggestion</string>
+    <string name="no_author">No author information available</string>
+
+    <!-- content descriptions for images -->
+    <string name="main_image_1_cd">Image of several hardcover books lined up on a shelf</string>
+    <string name="main_image_2_cd">Image of several hardcover books stacked on a desk with a candle,
+        quill pen and paper.
+    </string>
+</resources>
