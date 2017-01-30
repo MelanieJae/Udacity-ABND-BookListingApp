@@ -40,7 +40,6 @@ public class MainActivity extends AppCompatActivity
     @BindView(R.id.search_field) EditText keywordFieldView;
     @BindView(R.id.search_button) Button searchButton;
     @BindView(R.id.instructions) TextView instructText;
-//    @BindView(R.id.book_recycler_view) RecyclerView bookRecyclerView;
 
     // loader ID
     private static final int BOOK_LOADER_ID=1;

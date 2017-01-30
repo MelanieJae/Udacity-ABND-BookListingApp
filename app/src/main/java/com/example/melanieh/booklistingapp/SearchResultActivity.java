@@ -88,12 +88,6 @@ public class SearchResultActivity extends AppCompatActivity
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
-//        bookRecyclerView.setVisibility(View.VISIBLE);
-//        bookLLManager = new LinearLayoutManager(SearchResultActivity.this);
-//        adapter = new BookListingRecyclerAdapter(SearchResultActivity.this, storedBookListings);
-//        bookRecyclerView.setLayoutManager(bookLLManager);
-//        bookRecyclerView.setAdapter(adapter);
-
     }
 }
 
